@@ -44,4 +44,4 @@ python mouse_indicator.py
 
 ## 使用协议
 
-GPLv3, and attach this [README.md](https://github.com/realysy/mouse_indicator/README.md) with your use of this software.
+GPLv3, and attach this [README.md](./README.md) with your use of this software.
