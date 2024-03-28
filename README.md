@@ -39,7 +39,7 @@ python mouse_indicator.py
 
 
 ## 联系
-[Github: realysy/mouse_indicator](https://github.com/realysy/mouse_indicator)
+[Github: realysy/mouse_indicator](https://github.com/realysy/mouse_indicator/issues)
 
 
 ## 使用协议
