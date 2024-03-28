@@ -1,6 +1,6 @@
 ## 安装
 
-在 [Release](./releases) 中下载最新版本；除了下载软件外，还需准备如下环境：
+在 [Release](https://github.com/realysy/mouse_indicator/releases) 中下载最新版本；除了下载软件外，还需准备如下环境：
 
  * Python 3.7
  * pyqt5
